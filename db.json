@@ -3,17 +3,17 @@
     {
       "id": 1,
       "items": [
-        { "label": "Apple" },
-        { "label": "Banana" },
-        { "label": "Carrot" }
+        { "id": 100, "label": "Apple" },
+        { "id": 101, "label": "Banana" },
+        { "id": 102, "label": "Carrot" }
       ]
     },    
     {
       "id": 2,
       "items": [
-        { "label": "Sharks" },
-        { "label": "Lasers" },
-        { "label": "Glue" }
+        { "id": 200, "label": "Sharks" },
+        { "id": 201, "label": "Lasers" },
+        { "id": 202, "label": "Glue" }
       ]
     }
   ],
