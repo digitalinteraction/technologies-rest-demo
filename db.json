@@ -7,6 +7,14 @@
         { "label": 'Banana' },
         { "label": 'Carrot' }
       ]
+    },    
+    {
+      "id": 2,
+      "items": [
+        { "label": 'Sharks' },
+        { "label": 'Lasers' },
+        { "label": 'Glue' }
+      ]
     }
   ],
   "profile": {
