@@ -1,0 +1,15 @@
+{
+  "shopping": [
+    {
+      "id": 1,
+      "items": [
+        { label: 'Apple' },
+        { label: 'Banana' },
+        { label: 'Carrot' }
+      ]
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
