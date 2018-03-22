@@ -3,9 +3,9 @@
     {
       "id": 1,
       "items": [
-        { label: 'Apple' },
-        { label: 'Banana' },
-        { label: 'Carrot' }
+        { "label": 'Apple' },
+        { "label": 'Banana' },
+        { "label": 'Carrot' }
       ]
     }
   ],
